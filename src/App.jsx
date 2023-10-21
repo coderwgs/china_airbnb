@@ -12,7 +12,6 @@ const App = memo(() => {
 
   return (
     <div>
-      <div>哈哈哈</div>
       <AppHeader/>
         <Suspense fallback={ 
           <h2 
